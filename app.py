@@ -1,7 +1,7 @@
 import app as st
 import pandas as pd
 import streamlit as st
-import plotly.express as px 
+import plotly.express as px
 import warnings
 warnings.filterwarnings("ignore", message="missing ScriptRunContext")
 
